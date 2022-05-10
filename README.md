@@ -4,3 +4,5 @@ The aim of this small mobile app 📱 is show how to use UserDefault, as one of 
 
 With this execercise it is easy to understand how Combine works and helps us to update our views. Whereas, learning about Combine implies knowing about EnviromentObjects, Observable protocol, @Published and @State markups.
 
+
+https://github.com/felishuck/restaurantPreferences/Screenshot 2022-05-10 at 21.35.39.png?raw=true
